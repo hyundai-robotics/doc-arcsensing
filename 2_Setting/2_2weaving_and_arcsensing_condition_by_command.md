@@ -34,24 +34,25 @@ MOVE L,S=5mm/s,A=1,T=2	                이구간부터 파라미터가 변경됨
 
 _weaving의 element 별로 설정값이 기능에 적용되는 지 여부는 다음 표와 같습니다.
 
-| 변수명 | weaving 명령 직후 | 아크센싱 없는 위빙 동작 | 아크센싱 사용 위빙 동작 | 용접조건 연속변경
-weave	| 적용	| 적용	| 적용	| 적용
-frequency	| 적용	| 적용	| 적용	| 적용
-left_distance	| 적용	| 적용	| 적용	| 적용
-right_distance	| 적용	| 적용	| 적용 | 적용
-angle | 적용	| 적용	| 적용	| 적용
-wall_direction | 적용	| 적용 | 적용	| 적용
-offset_angle | 적용	| 적용 | 적용	| 적용
-forward_angle | 적용	| 적용 | 적용	| 적용
-boundary_limit | 적용	| 적용 | 적용	| 적용
-segment_time_1 | 적용	| 적용 | 적용	| 적용
-segment_delay_1 | 적용	| 적용 | 적용	| 적용
-height_sensing_mode | 적용	| 해당 없음 | 적용 | 적용
-side_sensing_sensitivity | 적용	| 해당 없음 | 적용 | 적용
-height_sensing_sensitivity | 적용	| 해당 없음 | 적용 | 적용
-BaseCur	| 적용	| 해당 없음 | 적용 | 적용
-StickOut | 적용	| 해당 없음 | 적용 | 적용
-asymetric_sensing_ratio | 적용	| 해당 없음 | 적용 | 적용
+| 변수명 | weaving 명령 직후 | 아크센싱 없는 위빙 동작 | 아크센싱 사용 위빙 동작 | 용접조건 연속변경 |
+|-------|-------|-------|-------|-------|
+| weave	| 적용	| 적용	| 적용	| 적용 |
+| frequency	| 적용	| 적용	| 적용	| 적용 |
+| left_distance	| 적용	| 적용	| 적용	| 적용 |
+| right_distance	| 적용	| 적용	| 적용 | 적용 |
+| angle | 적용	| 적용	| 적용	| 적용 |
+| wall_direction | 적용	| 적용 | 적용	| 적용 |
+| offset_angle | 적용	| 적용 | 적용	| 적용 |
+| forward_angle | 적용	| 적용 | 적용	| 적용 |
+| boundary_limit | 적용	| 적용 | 적용	| 적용 |
+| segment_time_1 | 적용	| 적용 | 적용	| 적용 |
+| segment_delay_1 | 적용	| 적용 | 적용	| 적용 |
+| height_sensing_mode | 적용	| 해당 없음 | 적용 | 적용 |
+| side_sensing_sensitivity | 적용	| 해당 없음 | 적용 | 적용 |
+| height_sensing_sensitivity | 적용	| 해당 없음 | 적용 | 적용 |
+| BaseCur	| 적용	| 해당 없음 | 적용 | 적용 |
+| StickOut | 적용	| 해당 없음 | 적용 | 적용 |
+| asymetric_sensing_ratio | 적용	| 해당 없음 | 적용 | 적용 |
 
 
 (3)	위빙 파라미터 명령어 종류 및 내용
