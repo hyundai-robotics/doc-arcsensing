@@ -9,3 +9,4 @@
 * [2. 기본설정](2_Setting/README.md)
   * [2.1 위빙 및 아크센싱 조건설정](2_Setting/2_1weaving_and_arcsensing_condition.md)
   * [2.2 명령어를 이용한 위빙 및 아크센싱 조건설정](2_Setting/2_2weaving_and_arcsensing_condition_by_command.md)
+  * [2.3 아크센싱 모니터링](2_Setting/2_3arcsensing_monitoring.md)
