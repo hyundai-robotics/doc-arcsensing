@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="../../_assets/2_2.png" width="60%"></img>
+ <img src="../_assets/2_2.png" width="60%"></img>
  <em><p align="center">그림 2.2 위빙 조건 설정</p></em>
 </p>
 
@@ -51,7 +51,7 @@
 
  
 <p align="center">
- <img src="../../_assets/2_3.png" width="60%"></img>
+ <img src="../_assets/2_3.png" width="60%"></img>
  <em><p align="center">그림 2.3 아크센싱 조건 (일반)</p></em>
 </p>
 
@@ -90,7 +90,7 @@
 ※ 이 대화상자는 엔지니어 권한이 있어야 진입이 가능합니다.
 
 <p align="center">
- <img src="../../_assets/2_4.png" width="60%"></img>
+ <img src="../_assets/2_4.png" width="60%"></img>
  <em><p align="center">그림 2.4 아크센싱 조건 (고급) 설정</p></em>
 </p>
 
@@ -156,7 +156,7 @@
 위빙 조건 대화상자에서 탭을 변경하면 다음 화면과 같은 ‘Data 지연 및 추종 계수 테이블’ 대화상자가 표시됩니다.
 
 <p align="center">
- <img src="../../_assets/2_5.png" width="60%"></img>
+ <img src="../_assets/2_5.png" width="60%"></img>
  <em><p align="center">그림 2.5 Data 지연 및 추종 계수 테이블 설정</p></em>
 </p>
 

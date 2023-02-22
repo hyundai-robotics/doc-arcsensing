@@ -8,3 +8,4 @@
   * [1.4 아크센싱 지원 사양](1_Basic_information/1_Introduction/1_4arcsensing_sepecification.md)
 * [2. 기본설정](2_Setting/README.md)
   * [2.1 위빙 및 아크센싱 조건설정](2_Setting/2_1weaving_and_arcsensing_condition.md)
+  * [2.2 명령어를 이용한 위빙 및 아크센싱 조건설정](2_Setting/2_2weaving_and_arcsensing_condition_by_command.md)
