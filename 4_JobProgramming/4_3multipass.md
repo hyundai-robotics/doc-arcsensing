@@ -3,7 +3,7 @@
 작업 프로그래밍은 다음과 같이 작성합니다.
 이 작업은 1pass 용접 후 2pass, 3pass를 좌/우 3mm, 높이 3mm로 시프트 하여 용접하는 작업프로그램입니다.
 
-      ‘~~~~~~~멀티패스 프로그램: 0003.JOB~~~~~~~~~~~~~~~ 
+~~~~~~~~~~~~멀티패스 프로그램: 0003.JOB~~~~~~~~~~~~~~~ 
      'Cylinder AS and MP Program
 S1   MOVE P,S=60%,A=3,T=1  
      'Find 4 Points by touch sensing
