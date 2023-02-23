@@ -26,14 +26,14 @@ S2   move L,spd=30%,accu=3,tool=1  			' 2: 종료점 터치센싱 위치
      var p10=cpo()
      var p1=cpo()
      touchsen cnd=1,crd="robot", dir=["x","-z"], pose=p10 	' 3: 종료점 터치센싱. P10에 위치 저장
-S3   move L,spd=30%,accu=3,tool=1  			' 4: 시작점 터치센싱 위치
+S3   move L,spd=30%,accu=3,tool=1  			    ' 4: 시작점 터치센싱 위치
      touchsen cnd=1,crd="robot",dir=["-x","-z"], pose=p1 	' 5: 시작점 터치센싱. P1에 위치 저장
 S4   move L,p1,spd=20%,accu=3,tool=1		' 6: 용접 시작 점으로 이동
-     weaving on, cnd=1				        ' 7: 위빙, 아크센싱 시작
-     arcon cnd=1				            ' 8: 용접 시작
+     weaving on, cnd=1              ' 7: 위빙, 아크센싱 시작
+     arcon cnd=1				    ' 8: 용접 시작
 S5   move L,p10,spd=60cm/min,accu=3,tool=1	' 9: 용접 종료 점으로 이동
-     arcoff	    			                '10: 용접 종료
-     weaving off			                '11: 위빙, 아크센싱 종료
+     arcoff	    			            '10: 용접 종료
+     weaving off			            '11: 위빙, 아크센싱 종료
 S6   move P,spd=60%,accu=3,tool=1 	        '12: 동작 종료점
      END
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
