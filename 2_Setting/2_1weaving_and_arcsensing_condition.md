@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="../_assets/2_2.png" width="60%"></img>
+ <img src="../../_assets/2_2.png" width="60%"></img>
  <em><p align="center">그림 2.2 위빙 조건 설정</p></em>
 </p>
 
