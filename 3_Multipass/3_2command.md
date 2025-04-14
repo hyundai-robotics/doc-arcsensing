@@ -43,15 +43,15 @@ multipass save, trj=[궤적 번호], period=[샘플링 거리]
 멀티패스 재현 시 원래 궤적에서 시프트 하는 거리를 설정합니다. 토치의 위빙이 툴과 직각이므로 각 시프트는 아래와 같이 설정됩니다. 즉, 좌우 방향은 위빙면이 되고 상하 방향은 위빙면과 수직인 면이 됩니다.
 
 <p align="center">
- <img src="../../_assets/3_4.png" width="60%"></img>
+ <img src="../_assets/3_4.png" width="60%"></img>
  <em><p align="center">그림 3.4 멀티패스 시프트 방향</p></em>
 </p>
 
 (6)	각도 시프트: TAS, WAS  
 멀티패스 용접을 수행할 때 품질을 위해 토치를 기울여야 하는 경우 설정합니다.
 각 항목의 각도 개념은 하기 그림과 같습니다.
-	
+
 <p align="center">
- <img src="../../_assets/3_5.png" width="60%"></img>
+ <img src="../_assets/3_5.png" width="60%"></img>
  <em><p align="center">그림 3.5 멀티패스 각도 시프트 개념</p></em>
 </p>

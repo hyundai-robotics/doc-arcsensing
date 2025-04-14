@@ -108,7 +108,7 @@
 
 
 <p align="center">
- <img src="../../_assets/2_2.png" width="60%"></img>
+ <img src="../_assets/2_2.png" width="60%"></img>
  <em><p align="center">그림 2.2 위빙 조건 설정</p></em>
 </p>
 
@@ -419,19 +419,19 @@ Mode: 현재 적용 중인 지연시간, 모드 번호
 멀티패스의 작업 프로그램 위치는 초층 궤적과 동일하게 유지하면 되므로 초층 작업프로그램을 그대로 복사한 후 멀티패스 명령어만 삽입하여 간단하게 멀티패스를 수행할 수 있습니다.
 
 <p align="center">
- <img src="../../_assets/3_1.png" width="60%"></img>
+ <img src="../_assets/3_1.png" width="60%"></img>
  <em><p align="center">그림 3.1 초층 아크센싱(좌) 후 2, 3층 멀티패스 용접</p></em>
 </p>
 
 <p align="center">
- <img src="../../_assets/3_2.png" width="60%"></img>
+ <img src="../_assets/3_2.png" width="60%"></img>
  <em><p align="center">그림 3.2 실제 멀티패스 용접</p></em>
 </p>
 
 멀티패스 비드를 상기 그림 2와 같이 경사진 적층형으로 생성하는 경우 용접 시작점과 종료점만 수정하여 약간 당겨 기록하면 하기와 같은 적층형으로 용접이 가능합니다.
 
 <p align="center">
- <img src="../../_assets/3_3.png" width="60%"></img>
+ <img src="../_assets/3_3.png" width="60%"></img>
  <em><p align="center">그림 3.3 경사가 있는 적층형 멀티패스 형상</p></em>
 </p># 3.2 멀티패스 명령어 및 동작원리
 
@@ -478,18 +478,19 @@ multipass save, trj=[궤적 번호], period=[샘플링 거리]
 멀티패스 재현 시 원래 궤적에서 시프트 하는 거리를 설정합니다. 토치의 위빙이 툴과 직각이므로 각 시프트는 아래와 같이 설정됩니다. 즉, 좌우 방향은 위빙면이 되고 상하 방향은 위빙면과 수직인 면이 됩니다.
 
 <p align="center">
- <img src="../../_assets/3_4.png" width="60%"></img>
+ <img src="../_assets/3_4.png" width="60%"></img>
  <em><p align="center">그림 3.4 멀티패스 시프트 방향</p></em>
 </p>
 
 (6)	각도 시프트: TAS, WAS  
 멀티패스 용접을 수행할 때 품질을 위해 토치를 기울여야 하는 경우 설정합니다.
 각 항목의 각도 개념은 하기 그림과 같습니다.
-	
+
 <p align="center">
- <img src="../../_assets/3_5.png" width="60%"></img>
+ <img src="../_assets/3_5.png" width="60%"></img>
  <em><p align="center">그림 3.5 멀티패스 각도 시프트 개념</p></em>
-</p># 4. Job 프로그래밍
+</p>
+# 4. Job 프로그래밍
 
 아크센싱 작업을 위하여 하기와 같은 작업 프로그래밍 예시를 수행합니다.
 
@@ -508,9 +509,8 @@ multipass save, trj=[궤적 번호], period=[샘플링 거리]
 3)	종료 위치 근처 이동 후 터치센싱을 이용하여 용접 종료 위치 탐색
 4)	용접 시작위치에서 위빙 명령어, 아크용접 명령어를 이용하여 작업 수행
 
-
 <p align="center">
- <img src="../../_assets/4_1.png" width="70%"></img>
+ <img src="../_assets/4_1.png" width="60%"></img>
  <em><p align="center">그림 4.1 필렛 터치센싱과 아크센싱</p></em>
 </p>
 
@@ -540,7 +540,7 @@ S6   move P,spd=60%,accu=3,tool=1 	        '12: 동작 종료점
 하기와 같은 두 작업물에 모두 적용할 수 있는 하나의 작업 프로그램을 생성합니다.
 
 <p align="center">
- <img src="../../_assets/4_2.png" width="70%"></img>
+ <img src="../_assets/4_2.png" width="60%"></img>
  <em><p align="center">그림 4.2 Butt 터치센싱, 아크센싱 작업물</p></em>
 </p>
 
@@ -564,7 +564,7 @@ S6   move P,spd=60%,accu=3,tool=1 	        '12: 동작 종료점
 7)	작업 진행이 완료된 후 원래 시작 위치로 복귀
 
 <p align="center">
- <img src="../../_assets/4_3.png" width="70%"></img>
+ <img src="../_assets/4_3.png" width="60%"></img>
  <em><p align="center">그림 4.3 Butt 터치센싱과 아크센싱</p></em>
 </p>
 

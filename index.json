@@ -41,47 +41,47 @@
 	},
 	{
 		"link": "2_Setting/2_2weaving_and_arcsensing_condition_by_command.md",
-		"char_ofs": 8086,
-		"byte_ofs": 17385
+		"char_ofs": 8083,
+		"byte_ofs": 17382
 	},
 	{
 		"link": "2_Setting/2_3arcsensing_monitoring.md",
-		"char_ofs": 10271,
-		"byte_ofs": 21243
+		"char_ofs": 10268,
+		"byte_ofs": 21240
 	},
 	{
 		"link": "3_Multipass/README.md",
-		"char_ofs": 11119,
-		"byte_ofs": 23088
+		"char_ofs": 11116,
+		"byte_ofs": 23085
 	},
 	{
 		"link": "3_Multipass/3_1basic.md",
-		"char_ofs": 11133,
-		"byte_ofs": 23121
+		"char_ofs": 11130,
+		"byte_ofs": 23118
 	},
 	{
 		"link": "3_Multipass/3_2command.md",
-		"char_ofs": 11973,
-		"byte_ofs": 24702
+		"char_ofs": 11961,
+		"byte_ofs": 24690
 	},
 	{
 		"link": "4_JobProgramming/README.md",
-		"char_ofs": 13837,
-		"byte_ofs": 28427
+		"char_ofs": 13819,
+		"byte_ofs": 28410
 	},
 	{
 		"link": "4_JobProgramming/4_1touchsensing_arcsensing.md",
-		"char_ofs": 13977,
-		"byte_ofs": 28755
+		"char_ofs": 13959,
+		"byte_ofs": 28738
 	},
 	{
 		"link": "4_JobProgramming/4_2touch_arcsensing_with_weaving_width.md",
-		"char_ofs": 15299,
-		"byte_ofs": 30845
+		"char_ofs": 15277,
+		"byte_ofs": 30823
 	},
 	{
 		"link": "4_JobProgramming/4_3multipass.md",
-		"char_ofs": 18673,
-		"byte_ofs": 35594
+		"char_ofs": 18645,
+		"byte_ofs": 35566
 	}
 ]

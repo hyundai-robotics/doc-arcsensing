@@ -6,18 +6,18 @@
 멀티패스의 작업 프로그램 위치는 초층 궤적과 동일하게 유지하면 되므로 초층 작업프로그램을 그대로 복사한 후 멀티패스 명령어만 삽입하여 간단하게 멀티패스를 수행할 수 있습니다.
 
 <p align="center">
- <img src="../../_assets/3_1.png" width="60%"></img>
+ <img src="../_assets/3_1.png" width="60%"></img>
  <em><p align="center">그림 3.1 초층 아크센싱(좌) 후 2, 3층 멀티패스 용접</p></em>
 </p>
 
 <p align="center">
- <img src="../../_assets/3_2.png" width="60%"></img>
+ <img src="../_assets/3_2.png" width="60%"></img>
  <em><p align="center">그림 3.2 실제 멀티패스 용접</p></em>
 </p>
 
 멀티패스 비드를 상기 그림 2와 같이 경사진 적층형으로 생성하는 경우 용접 시작점과 종료점만 수정하여 약간 당겨 기록하면 하기와 같은 적층형으로 용접이 가능합니다.
 
 <p align="center">
- <img src="../../_assets/3_3.png" width="60%"></img>
+ <img src="../_assets/3_3.png" width="60%"></img>
  <em><p align="center">그림 3.3 경사가 있는 적층형 멀티패스 형상</p></em>
 </p>

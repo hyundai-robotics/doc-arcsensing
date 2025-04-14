@@ -3,7 +3,7 @@
 하기와 같은 두 작업물에 모두 적용할 수 있는 하나의 작업 프로그램을 생성합니다.
 
 <p align="center">
- <img src="../../_assets/4_2.png" width="70%"></img>
+ <img src="../_assets/4_2.png" width="60%"></img>
  <em><p align="center">그림 4.2 Butt 터치센싱, 아크센싱 작업물</p></em>
 </p>
 
@@ -27,7 +27,7 @@
 7)	작업 진행이 완료된 후 원래 시작 위치로 복귀
 
 <p align="center">
- <img src="../../_assets/4_3.png" width="70%"></img>
+ <img src="../_assets/4_3.png" width="60%"></img>
  <em><p align="center">그림 4.3 Butt 터치센싱과 아크센싱</p></em>
 </p>
 
